@@ -20,7 +20,7 @@ Like the UCR Time Series Archive, we assume the input is stored in the numpy arr
 
 Example:
 
-Two sequences, one with 3 time steps and one with 2 time steps.
+Two sequences, one with 3 time steps and one with 5 time steps.
 
 ```
 0.1, 0.2, 0.3, NaN, NaN
