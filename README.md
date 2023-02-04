@@ -46,3 +46,14 @@ x_data_test = data_test[:,1:]
 x_data_train, x_data_test = vy.zero_pad_pre(x_data_train, x_data_test)
 ```
 
+# Citation
+```
+@inproceedings{iwana2022on,
+  title={On Mini-Batch Training with Varying Length Time Series},
+  author={Iwana, Brian Kenji},
+  booktitle={International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  year={2022},
+  doi={10.1109/ICASSP43922.2022.9746542},
+}
+```
+
